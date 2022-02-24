@@ -36,7 +36,5 @@ int main(int argc, const char** argv)
 	std::cout << "The address of the int_ptr is: " << &int_ptr << std::endl;
 	std::cout << "The address of the ptr is: " << &ptr << std::endl;
 
-	// Now lets compile the code
-
 	return 0;
 }
